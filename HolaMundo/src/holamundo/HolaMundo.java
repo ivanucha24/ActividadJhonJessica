@@ -19,6 +19,7 @@ public class HolaMundo {
         System.out.println("HolaMundo");
         int num1,num2;
         System.out.println("AdiosMundo");
+        System.out.println("Hasta luego");
     }
     
 }
